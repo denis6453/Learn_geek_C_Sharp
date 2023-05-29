@@ -76,7 +76,7 @@ double FindX(double k1, double b1, double k2, double b2)
     
     if (k1 != k2) return (b2 - b1) / (k1 - k2);
     else {
-        Console.WriteLine("Прямые параллельны или совпадают");
+        Console.WriteLine("Прямые параллельны или совпадаюти    ");
         return (b2 - b1) / (k1 - k2);
     }
 }
