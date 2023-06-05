@@ -248,6 +248,7 @@ void Print3DArray(int[,,] array)
 //             for (int j = 0; j < matrix2.GetLength(1); j++)
 //                         {
 //                             multipleArray[i, j] = ScalarMultiple(SelectRowArray(matrix1, i), SelectColumnArray(matrix2, j)); //выделяем i строку первой матрицы и j столбец второй матрицы и скалярно перемножаем
+                        
 //                         }
 //         }
 //         Console.WriteLine("Результат:");
